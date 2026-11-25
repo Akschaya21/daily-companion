@@ -1,0 +1,9 @@
+# build output
+app/build/
+
+# macOS / editor clutter
+.DS_Store
+.claude/
+
+# personal planning documents (kept local)
+*.pdf
